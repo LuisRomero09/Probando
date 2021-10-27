@@ -3,7 +3,7 @@ package pruebaTirar;
 public class demo {
 
 	public static void main(String[] args) {
-		System.out.println("hDFDSoRRla amigos");
+		System.out.println("hDFDSoRRla amigosoooo");
 
 	}
 
